@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+
+# generated native folders
+/ios
+/android
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# local env files
+.env*.local
+
